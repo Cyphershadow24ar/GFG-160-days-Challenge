@@ -26,8 +26,7 @@ class Solution {
         // code here
         if(node == NULL) return;
         
-        swap(node->left, node->right);
-        
+        swap(node->left, node->right); // using swap case for node.         
         mirror(node->left);
         mirror(node->right);
     }
