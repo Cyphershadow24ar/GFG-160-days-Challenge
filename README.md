@@ -9,6 +9,10 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 5. Matrix
 6. Hash
 7. Two-Pointer Technique
+8. Prefix Sum
+9. Linked List
+10. Recursion and Backtracking
+11. Tree
    
 # 1. Array
 1. Reverse of an array
@@ -108,3 +112,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 2. Height of Binary Tree
 3. Diameter of a Binary Tree
 4. Mirror Tree
+5. Construct Tree from Inorder & Preorder
