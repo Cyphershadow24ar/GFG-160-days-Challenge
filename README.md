@@ -113,3 +113,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 3. Diameter of a Binary Tree
 4. Mirror Tree
 5. Construct Tree from Inorder & Preorder
+6. Inorder Traversal
