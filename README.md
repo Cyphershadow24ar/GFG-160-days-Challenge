@@ -116,3 +116,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Inorder Traversal
 7. Tree Boundary Traversal
 8. Maximum path sum from any node
+9.  K Sum Paths
+
