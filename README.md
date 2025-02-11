@@ -118,4 +118,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 8. Maximum path sum from any node
 9. K Sum Paths
 10. Check for BST
+11. k-th Smallest in BST
 
