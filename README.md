@@ -119,4 +119,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 9. K Sum Paths
 10. Check for BST
 11. k-th Smallest in BST
-
+12. Pair Sum in BST
