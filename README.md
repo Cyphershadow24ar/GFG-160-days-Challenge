@@ -13,6 +13,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 9. Linked List
 10. Recursion and Backtracking
 11. Tree
+12. Heap
    
 # 1. Array
 1. Reverse of an array
@@ -123,3 +124,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 13. Fixing Two nodes of a BST
 14. Lowest Common Ancestor in a BST
 15. Serialize and deserialize a binary tree
+
+# 12. Heap
+1. k largest elements
+
