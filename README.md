@@ -127,5 +127,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 
 # 12. Heap
 1. k largest elements
-2.  K Closest Points to Origin
+2. K Closest Points to Origin
+3. Merge K sorted linked lists
 
