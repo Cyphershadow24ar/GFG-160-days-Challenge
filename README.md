@@ -134,3 +134,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 
 # 13. Stack
 1. Parenthesis Checker
+2.Longest valid Parentheses
