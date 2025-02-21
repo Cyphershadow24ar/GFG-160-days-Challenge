@@ -14,6 +14,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 10. Recursion and Backtracking
 11. Tree
 12. Heap
+13. Stack
    
 # 1. Array
 1. Reverse of an array
@@ -131,3 +132,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 3. Merge K sorted linked lists
 4. Find median in a stream
 
+# 13. Stack
+1. Parenthesis Checker
