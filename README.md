@@ -139,4 +139,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 4. Stock span problem
 5. Histogram Max Rectangular Area
 6. Maximum of minimum for every window size
+7. Get Min from Stack
 
