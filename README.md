@@ -141,3 +141,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Maximum of minimum for every window size
 7. Get Min from Stack
 8. Evaluation of Postfix Expression
+9. Decode the string
