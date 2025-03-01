@@ -142,3 +142,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 7. Get Min from Stack
 8. Evaluation of Postfix Expression
 9. Decode the string
+
+# 14. Queue and Dequeue
+1. K Sized Subarray Maximum
