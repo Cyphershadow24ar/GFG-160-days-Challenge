@@ -145,3 +145,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 
 # 14. Queue and Dequeue
 1. K Sized Subarray Maximum
+2. Longest Bounded-Difference Subarray
