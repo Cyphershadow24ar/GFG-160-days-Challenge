@@ -36,6 +36,6 @@ class Solution {
                 *it = num;
             }
         }
-        return temp.size()
+        return temp.size();
     }
 };
