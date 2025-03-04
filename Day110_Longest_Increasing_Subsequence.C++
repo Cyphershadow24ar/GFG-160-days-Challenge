@@ -21,3 +21,21 @@
 // Constraints:
 // 1 ≤ arr.size() ≤ 103
 // 0 ≤ arr[i] ≤ 106
+
+// SOLUTION :
+class Solution {
+  public:
+    int lis(vector<int>& arr) {
+        // code here
+        vector<int> temp;
+        for(int num : arr){
+            auto it = lower_bound(temp.begin(), temp.end(), num);
+            if(it  == temp.end()){
+                temp.push_back(num);
+            }else{
+                *it = num;
+            }
+        }
+        return temp.size()
+    }
+};
