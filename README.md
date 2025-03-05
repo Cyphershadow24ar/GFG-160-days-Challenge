@@ -15,6 +15,8 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 11. Tree
 12. Heap
 13. Stack
+14. Queue and Dequeue
+15. Dynamic Programming
    
 # 1. Array
 1. Reverse of an array
@@ -149,3 +151,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 
 # 15. Dynamic Programming
 1. Longest Increasing Subsequence
+2. Longest String Chain
+
