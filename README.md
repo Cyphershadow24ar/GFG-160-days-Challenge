@@ -152,4 +152,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 # 15. Dynamic Programming
 1. Longest Increasing Subsequence
 2. Longest String Chain
+3. Longest Common Subsequence
 
