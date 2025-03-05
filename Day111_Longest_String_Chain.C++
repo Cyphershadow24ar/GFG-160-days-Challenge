@@ -29,3 +29,33 @@
 
 // SOLUTION :
 
+class Solution {
+  public:
+  
+    static bool cmp(const string &x, const string &y){
+        return x.length() < y.length();
+    }
+    
+    int longestStringChain(vector<string>& words) {
+        // Code here
+        sort(words.begin(), words.end(), cmp);
+        
+        unordered_map<string, int> mp;
+        int res = 1;
+        
+        for(const string &s : words){
+            int val = 1;
+            
+            for(int j =0; j<s.length(); j++){
+                string temp = s.substr(0,j) + s.substr(j+1);
+                
+                if(mp.count(temp)){
+                    val = max(val, mp[temp]+1);
+                }
+            }
+            mp[s] = val;
+            res = max(res,val);
+        }
+        return res;
+    }
+};
