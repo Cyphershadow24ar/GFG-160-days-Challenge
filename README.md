@@ -153,4 +153,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 1. Longest Increasing Subsequence
 2. Longest String Chain
 3. Longest Common Subsequence
+4. Longest Palindromic Subsequence
+5. Longest Palindrome in a string
+6. Palindrome Substrings
 
