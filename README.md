@@ -157,4 +157,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 5. Longest Palindrome in a string
 6. Palindrome Substrings
 7. Edit Distance
+8. Ways to Reach the n'th Stair
 
