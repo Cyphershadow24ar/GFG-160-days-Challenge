@@ -160,4 +160,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 8. Ways to Reach the n'th Stair
 9.  Min Cost Climbing Stair
 10.  0 - 1 Knapsack Problem
+11.  Coin Change(Count Ways)
 
