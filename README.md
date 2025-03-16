@@ -162,4 +162,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 10.  0 - 1 Knapsack Problem
 11.  Coin Change(Count Ways)
 12.  Coin Change (Minimum Coins)
+13.  Minimum Jumps
 
