@@ -165,4 +165,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 13.  Minimum Jumps
 14.   Subset Sum Problem
 15.   Partition Equal Subset Sum
+16.   Stock Buy and Sell – Max K Transactions Allowed
 
