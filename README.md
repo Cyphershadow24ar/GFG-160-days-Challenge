@@ -158,13 +158,13 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 6. Palindrome Substrings
 7. Edit Distance
 8. Ways to Reach the n'th Stair
-9.  Min Cost Climbing Stair
-10.  0 - 1 Knapsack Problem
-11.  Coin Change(Count Ways)
-12.  Coin Change (Minimum Coins)
-13.  Minimum Jumps
-14.   Subset Sum Problem
-15.   Partition Equal Subset Sum
-16.   Stock Buy and Sell – Max K Transactions Allowed
-17.   Stock Buy and Sell – Max 2 Transactions Allowed
-
+9. Min Cost Climbing Stair
+10. 0 - 1 Knapsack Problem
+11. Coin Change(Count Ways)
+12. Coin Change (Minimum Coins)
+13. Minimum Jumps
+14. Subset Sum Problem
+15. Partition Equal Subset Sum
+16. Stock Buy and Sell – Max K Transactions Allowed
+17. Stock Buy and Sell – Max 2 Transactions Allowed
+18 . Stickler Thief
