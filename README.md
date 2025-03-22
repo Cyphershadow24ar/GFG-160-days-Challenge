@@ -168,3 +168,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 16. Stock Buy and Sell – Max K Transactions Allowed
 17. Stock Buy and Sell – Max 2 Transactions Allowed
 18 . Stickler Thief
+19. Stickler Thief II
