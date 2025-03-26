@@ -28,21 +28,24 @@
 
 class Solution {
   public:
-    int wordBreak(string &s, vector<string> &dictionary) {
-        // code here
-        unordered_set<string> wordSet(dictionary.begin(), dictionary.end());
-        int n = s.size();
-        vector<int> dp(n+1, 0);
-        dp[0] = 1;
-        
-        for(int i =1; i<=n ; i++){
-            for(int j =0; j < i; j++){
-                if(dp[j] && wordSet.find(s.substr(j, i-j)) != wordSet.end()){
-                    dp[i] = 1;
-                    break;
-                }
+    bool solve(string &s, set<string>st, int i, vector<int>&dp){
+        if(i == s.size()) return 1;
+        if(dp[i] != -1) return dp[i];
+        string temp="";
+        for(int j=i; j<s.size(); j++){
+            temp +=s[j];
+            if(st.find(temp)!= st.end()){
+                if(solve(s,st, j+1, dp)) return dp[i] = 1;
             }
         }
-        return dp[n];
+        return dp[i] =0;
+    }
+    bool wordBreak(string &s, vector<string> &dictionary) {
+        // code here
+        int n=s.size();
+        vector<int>dp(n+1,-1);
+        set<string>st;
+        for(auto it:dictionary) st.insert(it);
+        return solve(s,st,0,dp);
     }
 };
