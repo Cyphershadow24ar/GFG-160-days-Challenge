@@ -27,3 +27,31 @@
 // Note: Time intervals are in the 24-hour format(HHMM) , where the first two characters represent hour (between 00 to 23 ) and the last two characters represent minutes (this will be <= 59 and >= 0).
 
 // SOLUTION :
+
+class Solution {
+  public:
+    // Function to find the minimum number of platforms required at the
+    // railway station such that no train waits.
+    int findPlatform(vector<int>& arr, vector<int>& dep) {
+        // Your code here
+        int n = arr.size();
+        
+        sort(arr.begin(), arr.end());
+        sort(dep.begin(), dep.end());
+        
+        int platforms = 0, maxPlatforms = 0;
+        int  i = 0, j =0;
+        
+        while(i<n && j<n){
+            if(arr[i] <= dep[j]){
+                platforms++;
+                maxPlatforms = max(maxPlatforms, platforms);
+                i++;
+            }else{
+                platforms--;
+                j++;
+            }
+        }
+        return maxPlatforms;
+    }
+};
