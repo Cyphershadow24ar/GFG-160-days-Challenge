@@ -173,3 +173,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 21. Matrix Chain Multiplication
 22. Boolean Parenthesization
 23. Word Break
+
+# 14. Greedy
+1. Minimum Platforms
