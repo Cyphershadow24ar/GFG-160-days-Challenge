@@ -176,3 +176,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 
 # 14. Greedy
 1. Minimum Platforms
+2. Activity Selection
