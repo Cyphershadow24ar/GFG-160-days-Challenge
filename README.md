@@ -179,3 +179,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 2. Activity Selection
 3. Job Sequencing Problem
 4. Gas Station
+5. Maximize partitions in a String
