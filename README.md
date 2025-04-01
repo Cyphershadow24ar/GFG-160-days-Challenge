@@ -17,6 +17,8 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 13. Stack
 14. Queue and Dequeue
 15. Dynamic Programming
+16. DFS of Graph
+17. Graph
    
 # 1. Array
 1. Reverse of an array
@@ -174,9 +176,12 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 22. Boolean Parenthesization
 23. Word Break
 
-# 14. Greedy
+# 15. DFS of Graph
 1. Minimum Platforms
 2. Activity Selection
 3. Job Sequencing Problem
 4. Gas Station
 5. Maximize partitions in a String
+
+# 16. Graph 
+1. DFS of Graph
