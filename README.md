@@ -188,3 +188,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 2. BFS of Graph
 3. Rotten Oranges
 4. Undirected Graph Cycle
+5. Find the number of Islands
+6. Topological sort
