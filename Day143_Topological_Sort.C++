@@ -64,42 +64,4 @@ class Solution {
         }
         return topo;
     }
-};class Solution {
-  public:
-    vector<int> topoSort(int v, vector<vector<int>>& edges) {
-        // code here
-        vector<int> adj[v];
-        for(auto& e : edges){
-            adj[e[0]].push_back(e[1]);
-        }
-        
-        vector<int> indegree(v, 0);
-        for(int i=0; i<v ; i++){
-            for(int v : adj[i]){
-                indegree[v];
-            }
-        }
-        
-        queue<int> q;
-        for(int i =0; i<v ;i++){
-            if(indegree[i] == 0){
-                q.push(i);
-            }
-        }
-        
-        vector<int>topo;
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-            topo.push_back(node);
-            
-            for(int neighbor : adj[node]){
-                indegree[neighbor]--;
-                if(indegree[neighbor] == 0){
-                    q.push(neighbor);
-                }
-            }
-        }
-        return topo;
-    }
 };
