@@ -190,3 +190,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 4. Undirected Graph Cycle
 5. Find the number of Islands
 6. Topological sort
+7.  Directed Graph Cycle
+
