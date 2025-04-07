@@ -1,4 +1,4 @@
-# GFG-160-days-Challenge
+Bridge edge in a graph# GFG-160-days-Challenge
 This repo contains all the Problem solutions of GFG 160 days Challenge with Code.
 
 # Question Solved Topics
@@ -12,7 +12,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 8. Prefix Sum
 9. Linked List
 10. Recursion and Backtracking
-11. Tree
+11. TreeBridge edge in a graph
 12. Heap
 13. Stack
 14. Queue and Dequeue
@@ -191,4 +191,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 5. Find the number of Islands
 6. Topological sort
 7.  Directed Graph Cycle
+8.  Bridge edge in a graph
 
