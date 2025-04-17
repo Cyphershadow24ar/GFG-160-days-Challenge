@@ -20,3 +20,50 @@
 
 // SOLUTION : 
 
+class Solution {
+  public:
+    int findMinCycle(int V, vector<vector<int>>& edges) {
+        // code here
+        int ans = INT_MAX;
+        
+        map<int, vector<pair<int, int>>>adjList;
+        
+        for(auto i : edges){
+            int u = i[0], v = i[1], w = i[2];
+            
+            adjList[u].push_back({v, w});
+            adjList[V].push_back({u, w});
+        }
+        
+        for(auto i : edges){
+            int src = i[0], dest =i[1], wt = i[2];
+            
+            vector<int>dist(V, INT_MAX);
+            dist[src] = 0;
+            set<pair<int, int>>s;
+            s.insert({0, src});
+            
+            while(!s.empty()){
+                pair<int, int>p = *(s.begin());
+                int topDist = p.first;
+                int topNode = p.second;
+                
+                s.erase(s.begin());
+                
+                for(auto nbr : adjList[topNode]){
+                    int currNode = nbr.first, currWt = nbr.second;
+                    
+                    if(topNode == src && currNode == dest) continue;
+                    
+                    if(dist[currNode] > topDist + currWt){
+                        if(s.find({dist[currNode], currNode}) != s.end()) s.erase({dist[currNode], currNode});
+                        dist[currNode] = topDist + currWt;
+                        if(currNode != dest) s.insert({dist[currNode],currNode});
+                    }
+                }
+            }
+            if(dist[dest] != INT_MAX) ans = min(ans, dist[dest] + wt);
+        }
+        return ans;
+    }
+};
