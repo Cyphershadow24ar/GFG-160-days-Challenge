@@ -203,3 +203,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 17. Floyd Warshall
 18. Minimum Weight Cycle
 
+# 18. Tries
+1.  Implement Trie
