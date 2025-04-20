@@ -19,6 +19,8 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 15. Dynamic Programming
 16. Greedy
 17. Graph
+18. Tries
+19. Bit Manipulation
    
 # 1. Array
 1. Reverse of an array
@@ -206,3 +208,8 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 # 18. Tries
 1.  Implement Trie
 2.  Maximum XOR of two numbers in an array
+
+# 19. Bit Manipulation
+1. Find Only Repetitive Element from 1 to n-1
+2. Missing in Array
+
