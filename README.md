@@ -212,4 +212,4 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 # 19. Bit Manipulation
 1. Find Only Repetitive Element from 1 to n-1
 2. Missing in Array
-
+3. Unique Number I
