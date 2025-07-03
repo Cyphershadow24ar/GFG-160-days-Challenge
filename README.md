@@ -1,4 +1,4 @@
-Bridge edge in a graph# GFG-160-days-Challenge
+# GFG-160-days-Challenge
 This repo contains all the Problem solutions of GFG 160 days Challenge with Code.
 
 # Question Solved Topics
@@ -204,6 +204,7 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 16. Bellman-Ford
 17. Floyd Warshall
 18. Minimum Weight Cycle
+19. Bridge edge in a graph
 
 # 18. Tries
 1.  Implement Trie
@@ -213,3 +214,9 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 1. Find Only Repetitive Element from 1 to n-1
 2. Missing in Array
 3. Unique Number I
+
+# EXTRA & BONUS Questions
+
+# 1. Array 
+i) Split array in three equal sum subarrays
+
