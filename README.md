@@ -220,5 +220,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 # 1. Array 
 i) Split array in three equal sum subarrays
 ii) Repetitive Addition Of Digits
+iii) Maximize Number of 1's
 
 
