@@ -21,6 +21,10 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 17. Graph
 18. Tries
 19. Bit Manipulation
+
+# EXTRA & BONUS Questions
+1. Array 
+2. Strings
    
 # 1. Array
 1. Reverse of an array
@@ -222,5 +226,8 @@ i) Split array in three equal sum subarrays
 ii) Repetitive Addition Of Digits
 iii) Maximize Number of 1's
 iv) Last Moment Before All Ants Fall Out of a Plank
+
+# 2. Strings
+i) Fizz Buzz
 
 
