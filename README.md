@@ -222,12 +222,12 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 # EXTRA & BONUS Questions
 
 # 1. Array 
-i) Split array in three equal sum subarrays
-ii) Repetitive Addition Of Digits
-iii) Maximize Number of 1's
-iv) Last Moment Before All Ants Fall Out of a Plank
+1. Split array in three equal sum subarrays
+2. Repetitive Addition Of Digits
+3. Maximize Number of 1's
+4. Last Moment Before All Ants Fall Out of a Plank
 
 # 2. Strings
-i) Fizz Buzz
+1. Fizz Buzz
 
 
