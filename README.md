@@ -229,5 +229,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 
 # 2. Strings
 1. Fizz Buzz
+2. CamelCase Pattern Matching
 
 
