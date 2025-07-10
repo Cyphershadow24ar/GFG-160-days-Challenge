@@ -231,5 +231,6 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 1. Fizz Buzz
 2. CamelCase Pattern Matching
 3. Palindrome Sentence
+4.  Minimum repeat to make substring
 
 
