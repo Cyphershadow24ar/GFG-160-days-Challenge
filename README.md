@@ -233,4 +233,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 3. Palindrome Sentence
 4. Minimum repeat to make substring
 5. Longest Prefix Suffix
+6. Integer to Words
 
