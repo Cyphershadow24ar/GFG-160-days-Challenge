@@ -235,3 +235,8 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 5. Longest Prefix Suffix
 6. Integer to Words
 
+# 3. Sorting
+1. Minimum sum
+2. Meeting Rooms
+
+
