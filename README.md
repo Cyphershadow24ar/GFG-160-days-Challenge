@@ -241,3 +241,5 @@ This repo contains all the Problem solutions of GFG 160 days Challenge with Code
 3. Form the Largest Number
 4. Make array elements unique
 
+# 4. Searching
+1. Implement Lower Bound
